@@ -1,4 +1,4 @@
-<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="[ttps://tenor.com/view/luffy-gif-13810198704733122245]"/><h1 align="Left">Hi 👋, I'm Mugdh Mathur</h1>
+<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://tenor.com/view/luffy-gif-13810198704733122245"/><h1 align="Left">Hi 👋, I'm Mugdh Mathur</h1>
 <h3 align="center">A Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugdhm&label=Profile%20views&color=0e75b6&style=flat" alt="mugdhm" /> </p>
