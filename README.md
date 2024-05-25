@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://tenor.com/view/luffy-gif-13810198704733122245" alt="Luffy Sticker" width="100%" style="aspect-ratio:0.606426;"/>
+<p align="left">
+  <img src="https://github.com/your-username/your-repository-name/blob/main/path-to-your-gif-file.gif" alt="Luffy Sticker" width="50" style="padding-right:20px;padding-top:20px"/>
 </p>
 
 <h1 align="left">Hi 👋, I'm Mugdh Mathur</h1>
 <h3 align="center"> 👨🏼‍💻 Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugdhm&label=Profile%20views&color=0e75b6&style=flat" alt="mugdhm" /> </p>
 
