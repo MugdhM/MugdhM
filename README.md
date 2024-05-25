@@ -1,9 +1,5 @@
-<p align="left">
-  <img src="https://github.com/MugdhM/MugdhM/blob/main/luffy.gif?raw=true" alt="Luffy Sticker" width="50" style="padding-right:20px;padding-top:20px"/>
-</p>
-
-<h1 align="left">Hi 👋, I'm Mugdh Mathur</h1>
-<h3 align="center"> 👨🏼‍💻 Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
+<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/68439-luffy-ohy/download"/><h1 align="Left">Hi 👋, I'm Mugdh Mathur</h1>
+<h3 align="left">👨🏼‍💻 Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugdhm&label=Profile%20views&color=0e75b6&style=flat" alt="mugdhm" /> </p>
