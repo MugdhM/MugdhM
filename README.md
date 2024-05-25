@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/MugdhM/MugdhM/blob/main/[https://github.com/MugdhM/MugdhM/blob/main/luffy.gif?raw=true]" alt="Luffy Sticker" width="50" style="padding-right:20px;padding-top:20px"/>
+  <img src="https://github.com/MugdhM/MugdhM/blob/main/luffy.gif?raw=true" alt="Luffy Sticker" width="50" style="padding-right:20px;padding-top:20px"/>
 </p>
 
 <h1 align="left">Hi 👋, I'm Mugdh Mathur</h1>
