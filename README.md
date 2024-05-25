@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mugdh Mathur</h1>
 <h3 align="center">A Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=master-wayne7&label=Profile%20views&color=0e75b6&style=flat" alt="master-wayne7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mugdhm&label=Profile%20views&color=0e75b6&style=flat" alt="mugdhm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-wayne7&theme=tokyonight" alt="master-wayne7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugdhm&theme=tokyonight" alt="mugdhm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ramejaronit" target="blank"><img src="https://img.shields.io/twitter/follow/ramejaronit?logo=twitter&style=for-the-badge" alt="ramejaronit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ramejaronit" target="blank"><img src="https://img.shields.io/twitter/follow/mathurmugdh07?logo=twitter&style=for-the-badge" alt="mathurmugdh07" /></a> </p>
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
