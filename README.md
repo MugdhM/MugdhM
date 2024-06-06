@@ -1,4 +1,4 @@
-<img align="center" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/68439-luffy-ohy/download"/><h1 align="Center">Hi 👋, I'm Mugdh Mathur</h1>
+<img align="Left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/68439-luffy-ohy/download"/><h1 align="Left">Hi 👋, I'm Mugdh Mathur</h1>
 <h3 align="left">👨🏼‍💻 Flutter Developer specializing in creating dynamic, user-centered apps that enhance user experiences and solve real-world challenges.</h3>
 
 
