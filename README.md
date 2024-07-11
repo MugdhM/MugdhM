@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mugdhmathur2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZinHQUe9IZXpXqjuTwv7x6QgIC46jLZp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EF87WqwoQz5Sb_QZwGmUh4HfJo0JHZiM/view?usp=drive_link)
 
 - ⚡ Fun fact **I am One Piece Fan and a Gamer**
 
