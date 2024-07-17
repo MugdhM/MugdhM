@@ -6,8 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugdhm&theme=tokyonight" alt="mugdhm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mathurmugdh07" target="blank"><img src="https://img.shields.io/twitter/follow/mathurmugdh07?logo=twitter&style=for-the-badge" alt="mathurmugdh07" /></a> </p>
-<div>
+<p align="left">
+  <a href="https://twitter.com/mathurmugdh07" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mathurmugdh07?logo=twitter&style=for-the-badge" alt="mathurmugdh07" />
+  </a>
+</p>
+
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
