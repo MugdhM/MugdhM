@@ -43,4 +43,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugdhm&show_icons=true&locale=en&theme=tokyonight" alt="mugdhm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhm&theme=tokyonight" alt="mugdhm" /></p>
