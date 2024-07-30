@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Firebase and State Management**
 
-- 💬 Ask me about **SIH and Flutter Development**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **mugdhmathur2004@gmail.com**
 
